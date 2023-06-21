@@ -51,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1687317356207</updated>
       <workItem from="1687317357667" duration="695000" />
+      <workItem from="1687318067355" duration="850000" />
     </task>
     <task id="LOCAL-00001" summary="erc721">
       <created>1687317656677</created>
@@ -59,7 +60,28 @@
       <option name="project" value="LOCAL" />
       <updated>1687317656677</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1687318203367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687318203367</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1687318224768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687318224768</updated>
+    </task>
+    <task id="LOCAL-00004" summary="erc721">
+      <created>1687318321614</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687318321614</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,8 +97,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
     <MESSAGE value="erc721" />
     <option name="LAST_COMMIT_MESSAGE" value="erc721" />
   </component>
